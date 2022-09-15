@@ -5,7 +5,7 @@
   <h6>the ide is not for the brainf**k programming language is for all programming language</h6>
   <h7>and super fast compiler</h7>
   <h1></h1>
-  <code>use function and with ++++[+++>+++++++>++++++++++]</code>
+  <code>use function AND or OR with ++++[+++>+++++++>++++++++++]</code>
   <h1></h1>
   <h2>ide loading(image):</h2>
   <img src="https://cdn.discordapp.com/attachments/1013088899997905028/1019950246555553834/Screenshot_2022-09-15_153751.png?size=4096" alt="error loading with image"/>
